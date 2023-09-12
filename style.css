@@ -1,0 +1,42 @@
+
+body {
+    background: color #f7f7f7;
+    padding: 0 200px;
+    font-family:initial;
+    font-size: 14px;
+}
+
+
+    h2{font-size:15px ;
+    letter-spacing: 0;
+    line-height: 0%;   
+}
+
+estilos alterados
+
+.foto-perfil { 
+    border-radius: 15%;
+     justify-content: center;
+}
+
+    
+
+.dados_pessoais {
+    
+    display:flex;
+    justify-content:space-between;
+    text-align:right;
+    
+}
+
+table {background-color: rgba(141, 147, 147, 0.193);
+justify-content: space-;
+}
+hr {
+    margin: 1px;
+}
+
+
+
+
+
